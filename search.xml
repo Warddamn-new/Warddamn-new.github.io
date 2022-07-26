@@ -52,6 +52,31 @@
     </entry>
     
     
+    
+    <entry>
+      <title>文章发布 | 如何编辑/更新/发布文章到博客</title>
+      <link href="/2022/07/27/howtopost/"/>
+      <url>/2022/07/27/howtopost/</url>
+      
+        <content type="html"><![CDATA[<h2 id="编辑文章"><a href="#编辑文章" class="headerlink" title="编辑文章"></a>编辑文章</h2><p>博客的文章用markdown编辑好之后，文章的顶部要用 <code>---</code>包裹起来，其中内容要包括<code>title,date,tags,categories</code>等，其中<code>tags</code>是标签，<code>categories</code>是类别。<br>写完之后将整个md文件复制到 <em>根目录/source/_posts</em> 即可更新完成。</p><h2 id="更新文章到博客"><a href="#更新文章到博客" class="headerlink" title="更新文章到博客"></a>更新文章到博客</h2><p>在<em>_posts</em>上传了文章的md文件之后，运行<code>hexo g -d</code>即可发布到Github Page托管</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>

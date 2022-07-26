@@ -72,4 +72,30 @@
     
   </entry>
   
+  <entry>
+    <title>文章发布 | 如何编辑/更新/发布文章到博客</title>
+    <link href="https://warddamn-new.github.io/2022/07/27/howtopost/"/>
+    <id>https://warddamn-new.github.io/2022/07/27/howtopost/</id>
+    <published>2022-07-27T07:27:31.000Z</published>
+    <updated>2022-07-26T20:18:04.535Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;编辑文章&quot;&gt;&lt;a href=&quot;#编辑文章&quot; class=&quot;headerlink&quot; title=&quot;编辑文章&quot;&gt;&lt;/a&gt;编辑文章&lt;/h2&gt;&lt;p&gt;博客的文章用markdown编辑好之后，文章的顶部要用
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://warddamn-new.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="博客" scheme="https://warddamn-new.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
 </feed>
